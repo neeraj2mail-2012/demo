@@ -1,4 +1,4 @@
-total_student = input()
+total_student = 60
 A_student = 20
 B_student = 0
 C_student =30
@@ -12,3 +12,4 @@ print(f"\nTotal number of C students are {total_C}")
 
 print(f"\nTotal number of B students are {int(total_B)}")
 
+# a newlines
